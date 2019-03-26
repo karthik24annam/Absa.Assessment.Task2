@@ -12,6 +12,7 @@ In this, there will be two java classes and a feature file.
 ### Changes to be done to run the test in your local machine:
     In AddContactStepDefinition, in the setUP() method,Change the path of the Chrome driver. 
     You need to enter the path of chrome driver in your machine.
+    Please install "Natural" plugin to your project from the eclipse marketplace or google.
 #### Test Results
 I hvae produced the results in multiple formats like xml,json,and html.
 
