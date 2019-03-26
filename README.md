@@ -1,10 +1,11 @@
 # Assessment Task2
 I have completed this task using BDD framework(Cucumber).
 In this, there will be two java classes and a feature file. 
+Please find the references below:
 
-    AddContactTestRunner(Java Class)- to run the test.
-    AddContactStepDefinition(Java Class)- to define the test scripts. 
-    AddContact.feature(Feature File)-to define the test cases.
+    AddContactTestRunner(Java Class)- to run the test.(src/test/java/com.utilities.runner/AddContactTestRunner)
+    AddContactStepDefinition(Java Class)- to define the test scripts.(src/test/java/com.stepDefinitions/AddContactStepDefinition) 
+    AddContact.feature(Feature File)-to define the test cases.(src/test/resources/features)
 ## Prerequisites
     Java
     Selenium
