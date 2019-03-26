@@ -8,14 +8,15 @@ In this, there will be two java classes and a feature file.
 Import the total project in your eclipse.
 In the src/test/java , you will be finding "AddContactTestRunner" class .
 Run AddContactTestRunner class using Junit.
-Changes to be done to run the test in your local machine:
+### Changes to be done to run the test in your local machine:
     In AddContactStepDefinition, in the setUP() method,Change the path of the Chrome driver. 
     You need to enter the path of chrome driver in your machine.
-
-### Test Results
+#### Test Results
 I hvae produced the results in multiple formats like xml,json,and html.
 xml report(karthik_xml/cucumber.xml)
 Json report(json_output/cucumber.json)
 html report(test-output/index.html)
+
+
 
 
