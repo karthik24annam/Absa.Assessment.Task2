@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="23.325788">
+    <testcase classname="Absa Assessment Add User Feature" name="Add User1 Test Scenario" time="12.736062">
+        <system-out>
+            <![CDATA[Given Navigate to URL.......................................................passed
+Then Validate I am on User on the User List table...........................passed
+When I Click Add User.......................................................passed
+Then I enters firstName1 and lastName1 and userName1 and password1..........passed
+Then Select Customer1.......................................................passed
+Then Select Role1...........................................................passed
+Then I enters email1 and cell1..............................................passed
+And Click Save..............................................................passed
+And Quit Browser............................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Absa Assessment Add User Feature" name="Add User2 Test Scenario" time="10.589726">
+        <system-out>
+            <![CDATA[Given Navigate to URL.......................................................passed
+Then Validate I am on User on the User List table...........................passed
+When I Click Add User.......................................................passed
+Then I enters firstName2 and lastName2 and userName2 and password2..........passed
+Then Select Customer2.......................................................passed
+Then Select Role2...........................................................passed
+Then I enters email2 and cell2..............................................passed
+And Click Save..............................................................passed
+And Quit Browser............................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

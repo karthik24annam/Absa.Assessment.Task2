@@ -1,0 +1,248 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Add User1 Test Scenario",
+        "description": "",
+        "id": "absa-assessment-add-user-feature;add-user1-test-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 11201712058,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Navigate to URL",
+            "match": {
+              "location": "AddContactStepDefinition.navigate_to_URL()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 36321009,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Validate I am on User on the User List table",
+            "match": {
+              "location": "AddContactStepDefinition.validatePage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 85821395,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I Click Add User",
+            "match": {
+              "location": "AddContactStepDefinition.click_Add_User()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 332800306,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I enters firstName1 and lastName1 and userName1 and password1",
+            "match": {
+              "location": "AddContactStepDefinition.i_enters_firstName_and_lastName_and_userName_and_password()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 135263712,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Select Customer1",
+            "match": {
+              "location": "AddContactStepDefinition.selectCustomer()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 81445256,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Select Role1",
+            "match": {
+              "location": "AddContactStepDefinition.selectRole()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 197244668,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I enters email1 and cell1",
+            "match": {
+              "location": "AddContactStepDefinition.emailAndCell1()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 66539994,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Click Save",
+            "match": {
+              "location": "AddContactStepDefinition.clickSave()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 598913273,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Quit Browser",
+            "match": {
+              "location": "AddContactStepDefinition.quitBrowser()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "Add User2 Test Scenario",
+        "description": "",
+        "id": "absa-assessment-add-user-feature;add-user2-test-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8977181107,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Navigate to URL",
+            "match": {
+              "location": "AddContactStepDefinition.navigate_to_URL()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7146088,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Validate I am on User on the User List table",
+            "match": {
+              "location": "AddContactStepDefinition.validatePage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 107074785,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I Click Add User",
+            "match": {
+              "location": "AddContactStepDefinition.click_Add_User()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 380357146,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I enters firstName2 and lastName2 and userName2 and password2",
+            "match": {
+              "location": "AddContactStepDefinition.i_enters_firstName2_and_lastName2_and_userName2_and_password2()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 130146892,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "Select Customer2",
+            "match": {
+              "location": "AddContactStepDefinition.selectCustomer2()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 90761242,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "Select Role2",
+            "match": {
+              "location": "AddContactStepDefinition.selectRole2()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 216942825,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I enters email2 and cell2",
+            "match": {
+              "location": "AddContactStepDefinition.emailAndCell2()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 81765230,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Click Save",
+            "match": {
+              "location": "AddContactStepDefinition.clickSave()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 598351146,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "Quit Browser",
+            "match": {
+              "location": "AddContactStepDefinition.quitBrowser()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Absa Assessment Add User Feature",
+    "description": "",
+    "id": "absa-assessment-add-user-feature",
+    "keyword": "Feature",
+    "uri": "D:/AKV_QA/Work/absaAssessmentTask2/src/test/resources/features/AddContact.feature"
+  }
+]
