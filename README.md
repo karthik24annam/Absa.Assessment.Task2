@@ -16,7 +16,13 @@ I hvae produced the results in multiple formats like xml,json,and html.
 xml report(karthik_xml/cucumber.xml)
 Json report(json_output/cucumber.json)
 html report(test-output/index.html)
-
-
-
+##### Prerequisites
+Java
+Selenium
+Cucumber
+Maven
+Junit
+###### Issues found
+1. Results are not populating for the Customer field.
+2. If i have proper database details regarding User List Table, i would have find the reason behind the issue.
 
